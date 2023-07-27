@@ -88,21 +88,12 @@
   /*
     Role Title Color
   */
-  --member-listing-role-color: var(--main-theme-color);
+ 
 
   /*
     Small User Popout
   */
-  --small-user-popout-background-image: var(--theme-background-image);
-  --small-user-popout-background-transparency: rgba(0, 0, 0, 0.6);
-  --small-user-popout-background-image-position: center;
-
-  /*
-    Big User Popout
-  */
-  --big-user-popout-background-image: var(--theme-background-image);
-  --big-user-popout-background-transparency: rgba(0, 0, 0, 0.6);
-  --big-user-popout-background-image-position: center;
+ 
 
   /*
     Code Markup
@@ -128,13 +119,12 @@
   /*
     Context Menu Transparency
   */
-  --context-menu-transparency: rgba(15, 15, 15, 0.8);
+
 
   /*
     Add Server / Discovery Icon
   */
-  --add-discover-icon-transparency: rgba(200, 200, 200, 0.15);
-  --add-discover-icon-color: #43b581;
+
 
   /*
     Channel Limit Number Color
@@ -146,7 +136,7 @@
   /*
     Scrollbar Colors
   */
-  --scrollbar-color: rgba(200, 200, 200, 0.2);
+  
 
   /*
     Unread Message Divider
